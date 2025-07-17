@@ -1,0 +1,23 @@
+[33mcommit 2265c77adf55e8f5352954365420faede922b561[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: akash chauhan <pankajkumarchauhanp371@gmail.com>
+Date:   Tue Jul 15 13:39:01 2025 +0530
+
+    add content to second file
+
+[33mcommit 30e50ea6601204b2e58c58542531af915bffc3f3[m
+Author: akash chauhan <pankajkumarchauhanp371@gmail.com>
+Date:   Tue Jul 15 13:33:29 2025 +0530
+
+    first commit
+
+[33mcommit 7b69fb028d7731b81818cdbf03a09c9e6e6d1b12[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: your name <your-email@example.com>
+Date:   Tue Jul 15 09:48:39 2025 +0530
+
+    second commit
+
+[33mcommit 08b47ef97628c57b1e247a9894348f8e7a7899e9[m
+Author: your name <your-email@example.com>
+Date:   Tue Jul 15 09:44:30 2025 +0530
+
+    first commit
