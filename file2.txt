@@ -1,2 +1,4 @@
 this is my second file for git
 adding more content to file two.
+
+2025 footer note added
